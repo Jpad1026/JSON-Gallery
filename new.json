@@ -1,0 +1,82 @@
+{
+    "images": [
+        {
+            "imgPath": "jessesimg/kitty.jpg",
+            "imgLocation": "Charger Hellcat Redeye",
+            "description": "Dodge",
+            "date": "2021"
+        },
+        {
+            "imgPath": "jessesimg/zo6.jpg",
+            "imgLocation": "C6 Zo6 Corvette",
+            "description": "Chevrolet",
+            "date": "2005"
+        },
+        {
+            "imgPath": "jessesimg/1.jpg",
+            "imgLocation": "RocketBunny 350z",
+            "description": "Nissan",
+            "date": "2004"
+        },
+        {
+            "imgPath": "jessesimg/s15.jpg",
+            "imgLocation": "s15",
+            "description": "Nissan",
+            "date": "1999"
+        },
+        {
+            "imgPath": "jessesimg/m3.jpg",
+            "imgLocation": "F80 M3",
+            "description": "BMW",
+            "date": "2017"
+        },
+        {
+            "imgPath": "jessesimg/r8.jpg",
+            "imgLocation": "R8",
+            "description": "Audi",
+            "date": "2019"
+        },
+        {
+            "imgPath": "jessesimg/rr.jpg",
+            "imgLocation": "Agera RR",
+            "description": "Koenigsegg",
+            "date": "2015"
+        },
+        {
+            "imgPath": "jessesimg/ls.jpg",
+            "imgLocation": "Ls400",
+            "description": "Lexus",
+            "date": "1997"
+        },
+        {
+            "imgPath": "jessesimg/senna.jpg",
+            "imgLocation": "Senna",
+            "description": "Mclaren",
+            "date": "2019"
+        },
+        {
+            "imgPath": "jessesimg/hawk.webp",
+            "imgLocation": "Trackhawk",
+            "description": "Jeep",
+            "date": "2019"
+        },
+        {
+            "imgPath": "jessesimg/eleanor.jpg",
+            "imgLocation": "Eleanor Mustang",
+            "description": "Ford",
+            "date": "1973"
+        },
+        {
+            "imgPath": "jessesimg/rx7.jpg",
+            "imgLocation": "FD Rx7",
+            "description": "Mazda",
+            "date": "1992"
+        },
+        {
+            "imgPath": "jessesimg/stu.jpg",
+            "imgLocation": "Mk4 Supra",
+            "description": "Toyota",
+            "date": "2002"
+        }
+  ]
+}
